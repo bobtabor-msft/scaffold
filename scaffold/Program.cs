@@ -12,6 +12,9 @@ namespace scaffold
             // TODO: Print version number.
             // TODO: Check to make sure all the templates are in the right folder.
 
+            // Reminder - to create a self-contained install:
+            // dotnet publish -c Release -r win-x64 --self-contained true
+
             var originalColor = Console.ForegroundColor;
 
             Console.WriteLine("Hi, I scaffold Learn modules!");
@@ -59,7 +62,7 @@ namespace scaffold
 
             // Create folders
 
-            string baseDirectory = $"c:\\working\\{moduleUID}";
+            string baseDirectory = $"c:\\scaffold\\output\\{moduleUID}";
             System.IO.Directory.CreateDirectory(baseDirectory);
             Console.WriteLine($"Created {baseDirectory}");
 
