@@ -1,0 +1,10 @@
+﻿
+
+Open Pull Requests
+https://github.com/MicrosoftDocs/learn-pr/pulls/bobtabor-msft
+
+QA Checklist
+https://microsoft.sharepoint.com/teams/APEXLearningCoreAzure/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FAPEXLearningCoreAzure%2FShared%20Documents%2FGeneral%2FChecklists%2Fqa%2Dchecklist%2Emd&parent=%2Fteams%2FAPEXLearningCoreAzure%2FShared%20Documents%2FGeneral%2FChecklists
+
+Pre-pub Checklist
+https://microsoft.sharepoint.com/teams/APEXLearningCoreAzure/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FAPEXLearningCoreAzure%2FShared%20Documents%2FGeneral%2FChecklists%2Fpre%2Dpub%2Dchecklist%2Emd&parent=%2Fteams%2FAPEXLearningCoreAzure%2FShared%20Documents%2FGeneral%2FChecklists
